@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ShivamSood_Comp304_Assignment4</string>
+    <string name="logintxt">Login Selection</string>
+    <string name="customertxt">Customers</string>
+    <string name="representativetxt">Representative</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="customer_login">Customer Login</string>
+    <string name="customer_register">Customer Registration</string>
+    <string name="username">Username: </string>
+    <string name="password">Password: </string>
+    <string name="retrypass">Re-try Password: </string>
+    <string name="fname">First Name: </string>
+    <string name="lname">Last Name: </string>
+    <string name="address">Address: </string>
+    <string name="postalcode">Postal Code: </string>
+    <string name="rep_login">Representative Login</string>
+    <string name="rep_registration">Representative Registration</string>
+    <string name="shopping_screen">Shopping Screen</string>
+    <string name="order_info">Order Information</string>
+    <string name="sign_out">Sign out</string>
+    <string name="check_order">Check Orders</string>
+    <string name="customer_menu">Customer Menu</string>
+    <string name="placeorder">Place Orders</string>
+    <string name="cancel">Cancel Order</string>
+    <string name="change_detail">Change Delivery Date</string>
+    <string name="selectedI">Selected Items</string>
+    <string name="repMenu">Representative Menu</string>
+    <string name="view_order">View Orders</string>
+    <string name="change_status">Change Status</string>
+    <string name="order">Orders</string>
+
+    <string-array name="items">
+        <item>"airforce"</item>
+        <item>airmax</item>
+        <item>kobe</item>
+        <item>cr7</item>
+        <item>kyries</item>
+        <item>louisVitton</item>
+
+    </string-array>
+
+</resources>
